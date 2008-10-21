@@ -14,3 +14,7 @@
 
 <bin file=testGeometricSort.cpp name=testGeometricSort>
 </bin>
+
+
+<bin file=exampleBlockWipedAllocator.cpp name=exampleBlockWipedAllocator>
+</bin>
