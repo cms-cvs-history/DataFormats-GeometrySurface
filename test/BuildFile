@@ -3,8 +3,8 @@
 <use name=boost>
 
 #this test also depends on FrameChanger which is not in Geometry sub-system
-#<bin file=FrameTransformTest.cpp>
-#</bin>
+<bin file=FrameTransformTest.cpp>
+</bin>
 
 <bin file=PrecisionMixSurface.cpp>
 </bin>
