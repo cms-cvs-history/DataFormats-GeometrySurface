@@ -260,7 +260,7 @@ public:
   
 private:
   
-  mathSSE::Rot3<T> rot;
+  Rot3<T> rot;
   
 };
 
@@ -347,7 +347,7 @@ public:
 
  private:
   
-  mathSSE::Rot2<T> rot;
+  Rot2<T> rot;
  
 };
 
